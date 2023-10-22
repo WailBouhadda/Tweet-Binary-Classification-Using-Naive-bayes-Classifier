@@ -1,7 +1,7 @@
 # Tweet Binary Classification Using Naive bayes Classifier 
 
 
-Author: #### - <a href="https://github.com/WailBouhadda">Wail Bouhadda</a>
+#### Author:  - <a href="https://github.com/WailBouhadda">Wail Bouhadda</a>
 
 ## Table of Contents
 
