@@ -34,7 +34,7 @@ The Tweet Binary Classification project focuses on binary classification of twee
 
 Feature extraction in the  project was carried out using the Bag of Words (BoW) method. BoW is a commonly used technique for text classification that represents text data as a matrix of word frequencies.
 
-Bag of Words (BoW): Selected as the feature extraction method, BoW converts text data into a matrix where each row represents a document (tweet) and each column represents a unique word in the dataset. The matrix entries indicate the frequency of each word's occurrence in the corresponding document.
+Bag of Words (BoW): Selected as the feature extraction method. BoW converts text data into a matrix where each row represents a document (tweet) and each column represents a unique word in the dataset. The matrix entries indicate the frequency of each word's occurrence in the corresponding document.
 
 This BoW representation allowed the model to work with numerical data, facilitating the binary classification task of categorizing tweets into "sports" and "politics."
 
